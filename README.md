@@ -5,7 +5,6 @@
 - 🔭 I’m currently studying in Beijing Institute of Technology
 - 👯 I’m currently working on character animation
 - 🌱 I’m currently learning computer vision and computer graphics
-- 
 
 <!--
 **yanch2116/yanch2116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
